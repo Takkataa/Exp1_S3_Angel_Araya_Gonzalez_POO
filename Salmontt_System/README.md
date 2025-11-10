@@ -22,6 +22,7 @@ En este caso se nos solicito realizar la digitalizacion de un salmonera en Puert
 📁 src/
 ├── app/         # Clase principal con el método main
 ├── model/       # Clases de dominio (Persona, Cliente, Empleado, Producto, etc.)
+├── data/        # Clases para la carga y lectura de archivos .txt
 ├── utils/       # Utilidades y validaciones
 └── interfaces/  # Interfaces implementadas por las clases
 ````
@@ -35,7 +36,7 @@ En este caso se nos solicito realizar la digitalizacion de un salmonera en Puert
 1. Clona el repositorio desde GitHub:
 
 ```bash
-https://github.com/Takkataa/Exp1_S3_Angel_Araya_Gonzalez_POO.git
+git clone https://github.com/usuario/repositorio-evaluacion-final.git
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -49,13 +50,12 @@ https://github.com/Takkataa/Exp1_S3_Angel_Araya_Gonzalez_POO.git
 
 ---
 
-**Repositorio GitHub:** (https://github.com/Takkataa/Exp1_S3_Angel_Araya_Gonzalez_POO.git)
-**Fecha de entrega:** \[10/11/2025]
+**Repositorio GitHub:** \[Pega aquí el enlace al repositorio]
+**Fecha de entrega:** \[DD/MM/2025]
 
 ---
 
-© Duoc UC | Escuela de Informática y Telecomunicaciones | Primera Evaluacion
-
+© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final Transversal EFT
 
 
 
